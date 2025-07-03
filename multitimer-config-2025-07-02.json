@@ -1,0 +1,206 @@
+{
+  "version": "1.0",
+  "exportDate": "2025-07-02T17:21:38.329Z",
+  "timers": [
+    {
+      "name": "Timer 1",
+      "duration": 300,
+      "color": "red",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Andrea",
+      "duration": 60,
+      "color": "red",
+      "soundEnabled": true,
+      "soundType": "bell",
+      "autoRestart": false,
+      "description": "",
+      "category": "Gonfiabile"
+    },
+    {
+      "name": "Timer 3",
+      "duration": 300,
+      "color": "yellow",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 4",
+      "duration": 300,
+      "color": "green",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 5",
+      "duration": 300,
+      "color": "blue",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 6",
+      "duration": 300,
+      "color": "purple",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 7",
+      "duration": 300,
+      "color": "pink",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 8",
+      "duration": 300,
+      "color": "cyan",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 9",
+      "duration": 300,
+      "color": "red",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 10",
+      "duration": 300,
+      "color": "orange",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 11",
+      "duration": 300,
+      "color": "yellow",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 12",
+      "duration": 300,
+      "color": "green",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 13",
+      "duration": 300,
+      "color": "blue",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 14",
+      "duration": 300,
+      "color": "purple",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 15",
+      "duration": 300,
+      "color": "pink",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 16",
+      "duration": 300,
+      "color": "cyan",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 17",
+      "duration": 300,
+      "color": "red",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 18",
+      "duration": 300,
+      "color": "orange",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 19",
+      "duration": 300,
+      "color": "yellow",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    },
+    {
+      "name": "Timer 20",
+      "duration": 300,
+      "color": "green",
+      "soundEnabled": true,
+      "soundType": "beep",
+      "autoRestart": false,
+      "description": "",
+      "category": "General"
+    }
+  ]
+}
